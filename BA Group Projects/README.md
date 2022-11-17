@@ -1,8 +1,8 @@
 # Description
 
-This folder contains my group project in business analysis. 
+This folder contains technical files for the final group project of BA-1.
 
-# Team
+# Team Members
 
 1. Wenbin Zhou (Leader)
 2. Yanjun Lin
