@@ -2,7 +2,8 @@
 
 This folder contains my group project in business analysis. 
 
-# Team Information
+# Team
+
 1. Wenbin Zhou (Leader)
 2. Yanjun Lin
 3. Yahang Leng
