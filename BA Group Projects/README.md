@@ -14,3 +14,7 @@ This folder contains technical files for the final group project of BA-1.
 4. Ziqian Zhang
 5. Zeyu Lai
 6. Tianqi Wang
+
+# Remarks
+
+The results of KNN and the remaining sections of ```train_state.ipynb``` file was not shown because it took me too long to run this part of my code on my laptop right before uploading this file to GitHub. Anyways, the rest of the code is indeed executable.
