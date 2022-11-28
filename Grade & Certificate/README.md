@@ -1,1 +1,1 @@
-The two files are the grade report and certificate for completing the online program "Machine Learning Plus in Business Analytics". 
+The two files are my grade report and certificate for completing the online program "Machine Learning Plus in Business Analytics". 
